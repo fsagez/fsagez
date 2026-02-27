@@ -30,13 +30,13 @@ I'm Frédéric and in my life I'm a
 [![ITIL 4](https://img.shields.io/badge/credly--lightgrey?style=social&logo=credly)](https://www.credly.com/badges/0ddbacc0-a397-4a50-b6df-e78f10a13d28/public_url)
 [![Google Cyberscurity](https://img.shields.io/badge/credly--lightgrey?style=social&logo=credly)](https://www.credly.com/badges/045d8bc3-db0b-4ea0-a815-bef538172de9/public_url)
 
-<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/certifs.PNG" width="50%" height="50%"/></br>
+<img src="https://raw.githubusercontent.com/fsagez/fsagez/main/pictures/certifs.PNG" width="50%" height="50%"/></br>
 ## Methodologies
 
-<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/gestion_de_projet.PNG" width="40%" height="40%"/></br>
+<img src="https://raw.githubusercontent.com/fsagez/fsagez/main/pictures/gestion_de_projet.PNG" width="40%" height="40%"/></br>
 ## Tools
 
-<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/tools.PNG" width="70%" height="70%"/></br>
+<img src="https://raw.githubusercontent.com/fsagez/fsagez/main/pictures/tools.PNG" width="70%" height="70%"/></br>
 ## My French Resume
 <details>
     <summary>
@@ -115,7 +115,7 @@ Filière Technologie, technicien d'électronique industrielle
 ## French magazine articles writer
 
 ### Programmez!
-Dossiers et articles publiés dans le magazine [Programmez!](https://github.com/NoExtra-Team/Magazine-Programmez)
+Dossiers et articles publiés dans le magazine [Programmez!](https://github.com/fsagez/Magazine-Programmez)
 
 * Programmez! n°192 (janv. 2016) : Atari ST, la superstar (Dossier spécial Vintage) : article de trois pages reprenant l'actualité de l'Atari ST depuis le début du 21ème siècle
 * Programmez! n°203 (janv. 2017) : programmez sur Atari ST 30 ans après (Dossier Vintage) : article sur la programmation en Assembleur 68k sur Atari ST
@@ -126,7 +126,7 @@ Dossiers et articles publiés dans le magazine [Programmez!](https://github.com/
 * Programmez! n°255 (déc. 2022) : article Cybersécurité sur la modélisation des menaces (Threat Modeling) : j'ai accompagné une PME dans le domaine du médical sur Grenoble à se remettre en question et à mieux appréhender les risques sur la sécurité informatique dans un contexte international
 
 ### Technosaures
-Dossiers et articles publiés dans le magazine [Technosaures](https://github.com/NoExtra-Team/Magazine-Technosaures), le magazine qui remonte le temps !
+Dossiers et articles publiés dans le magazine [Technosaures](https://github.com/fsagez/Magazine-Technosaures), le magazine qui remonte le temps !
 
 * Technosaures #1 (déc. 2019) : article de 5 pages traitant de la démoscène ou l’art du digital et la genèse du numérique
 * Technosaures #3 (mai 2020) : article de 5 pages sur la marque ATARI qui se lance dans les ordinateurs familiaux et qui sortira la gamme du 520 ST dans les années 80
