@@ -1,7 +1,7 @@
 <!-- update README.md-->
 ## Hi, I'm Frédéric Sagez 👋
 
-I'm an IT Project Manager and freelancer near Grenoble city, France. I have worked as a Java Developer and Ops for over 18 years as an NTIC Architect to develop clients' IS and now I have evolved to manage technical projects with the best practices.
+I'm a Senior IT Project Manager and freelancer near Grenoble city, France. I have worked as a Java Developer and Ops for over 18 years as an NTIC Architect to develop clients' IS and now I have evolved to manage technical projects with the best practices.
 
 ## Contact me
 
@@ -11,23 +11,26 @@ I'm an IT Project Manager and freelancer near Grenoble city, France. I have work
 ## Who am I?
 [![malt](https://img.shields.io/badge/malt--lightgrey?style=social&logo=malt)](https://www.malt.fr/profile/fredericsagez)
 [![collective](https://img.shields.io/badge/collective--lightgrey?style=social&logo=collective)](https://app.collective.work/collective/frederic-sagez)
+[![github](https://img.shields.io/badge/github--lightgrey?style=social&logo=github)](https://github.com/NoExtra-Team)
 [![github](https://img.shields.io/badge/github--lightgrey?style=social&logo=github)](https://github.com/FremyEtCie)
 
 I'm Frédéric and in my life I'm a
 
+* Senior IT Specialist
 * Technical Project Manager
 * Project Manager certified
 * Cybersecurity Consultant
 * Enterprise Architect
+* ITSM Consultant
 * Team Leader
 * Functional and technical testing
 * Support and assistance for operating teams
 * Speaker (conferences and meetups)
-* Technical writer
+* Technical writer (french magazines)
 * Coder at heart... and an old demoscener who write and manage demonstrations on Atari ST all around the word!
 
 ## Certifications
-[![ITIL 4](https://img.shields.io/badge/credly--lightgrey?style=social&logo=credly)](https://www.credly.com/badges/0ddbacc0-a397-4a50-b6df-e78f10a13d28/public_url)
+[![ITIL v4](https://img.shields.io/badge/credly--lightgrey?style=social&logo=credly)](https://www.credly.com/badges/0ddbacc0-a397-4a50-b6df-e78f10a13d28/public_url)
 [![Google Cyberscurity](https://img.shields.io/badge/credly--lightgrey?style=social&logo=credly)](https://www.credly.com/badges/045d8bc3-db0b-4ea0-a815-bef538172de9/public_url)
 
 <img src="https://raw.githubusercontent.com/fsagez/fsagez/main/pictures/certifs.PNG" width="50%" height="50%"/></br>
@@ -96,7 +99,7 @@ Filière Technologie, technicien d'électronique industrielle
 🇫🇷 🇬🇧
 </details>
 
-## Talks
+## Meetups and Talks
 [![slideshare](https://img.shields.io/badge/slideshare--lightgrey?style=social&logo=slideshare)](https://fr.slideshare.net/fredericsagez)
 
 * [GDF-SUEZ/GRT-GAZ - Concept de l’Intégration Continue (nov. 2014)](https://fr.slideshare.net/slideshow/concept-de-lintgration-continue-fsav12-fr/41660160)
@@ -138,9 +141,9 @@ Dossiers et articles publiés dans le magazine [Technosaures](https://github.com
 ## Radios
 [![mixcloud](https://img.shields.io/badge/mixcloud--lightgrey?style=social&logo=mixcloud)](https://www.mixcloud.com/fredericsagez/)
 
-* [Emission Cyber-Culture sur la radio Ici & Maintenant (95.2 FM) du 22/12/2012](https://www.mixcloud.com/fredericsagez/emission-cyber-culture-sur-la-radio-ici-maintenant-952-fm-du-22122012/)
-* [Emission Hotline sur la radio Ici & Maintenant (95.2 FM) du 01/12/2012](https://www.mixcloud.com/fredericsagez/emission-hotline-sur-la-radio-ici-maintenant-952-fm-du-01122012/)
-* [Emission Cyber-Culture sur la radio Ici & Maintenant (95.2 FM) du 20/10/2012](https://www.mixcloud.com/fredericsagez/emission-cyber-culture-sur-la-radio-ici-maintenant-952-fm-du-20102012/)
+* Radio Ici & Maintenant (95.2 FM) : [Emission Cyber-Culture  du 22/12/2012](https://www.mixcloud.com/fredericsagez/emission-cyber-culture-sur-la-radio-ici-maintenant-952-fm-du-22122012/)
+* Radio Ici & Maintenant (95.2 FM) : [Emission Hotline du 01/12/2012](https://www.mixcloud.com/fredericsagez/emission-hotline-sur-la-radio-ici-maintenant-952-fm-du-01122012/)
+* Radio Ici & Maintenant (95.2 FM) : [Emission Cyber-Culture du 20/10/2012](https://www.mixcloud.com/fredericsagez/emission-cyber-culture-sur-la-radio-ici-maintenant-952-fm-du-20102012/)
 
 ## Volunteer
 
