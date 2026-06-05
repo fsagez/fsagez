@@ -165,7 +165,6 @@ Dossiers et articles publiés dans le magazine [Technosaures](https://github.com
 
 ## Resume by pictures
 
-<img src="https://raw.githubusercontent.com/fsagez/fsagez/main/pictures/Resume.png" width="90%" height="90%"/>
-<img src="https://raw.githubusercontent.com/fsagez/fsagez/main/pictures/Conferences.png" width="90%" height="90%"/>
+<img src="https://raw.githubusercontent.com/fsagez/fsagez/main/pictures/Conferences.png" width="90%" height="90%"/><img src="https://raw.githubusercontent.com/fsagez/fsagez/main/pictures/Resume.png" width="90%" height="90%"/>
 
 </br>
