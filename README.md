@@ -1,7 +1,7 @@
 <!-- update README.md-->
 ## Hi, I'm Frédéric Sagez 👋
 
-I'm a Senior IT Project Manager and freelancer near Grenoble city, France. I have worked as a Java Developer and Ops for over 18 years as an NTIC Architect to develop clients' IS and now I have evolved to manage technical projects with the best practices.
+I'm a Senior IT Project Manager and freelancer near Grenoble city in France. I have worked as a Java Developer and Ops for over 18 years as an NTIC Architect to develop clients' IS and now I have evolved to manage technical projects with the best practices.
 
 ## Contact me
 
@@ -14,7 +14,7 @@ I'm a Senior IT Project Manager and freelancer near Grenoble city, France. I hav
 [![github](https://img.shields.io/badge/github--lightgrey?style=social&logo=github)](https://github.com/NoExtra-Team)
 [![github](https://img.shields.io/badge/github--lightgrey?style=social&logo=github)](https://github.com/FremyEtCie)
 
-I'm Frédéric and in my life I'm a
+I'm Frédéric and in my life I'm a...
 
 * Senior IT Specialist
 * Technical Project Manager
@@ -23,11 +23,11 @@ I'm Frédéric and in my life I'm a
 * Enterprise Architect
 * ITSM Consultant
 * Team Leader
-* Functional and technical testing
-* Support and assistance for operating teams
-* Speaker (conferences and meetups)
-* Technical writer (french magazines)
-* Coder at heart... and an old demoscener who write and manage demonstrations on Atari ST all around the word!
+* Functional and Technical Lead Testing
+* Support and Assistance for operating Teams
+* Speaker (Conferences and Meetups)
+* Technical Writer for french magazines
+* A coder at heart... and an old demoscener who writed and managed demonstrations on Atari ST all around the word!
 
 ## Certifications
 [![ITIL v4](https://img.shields.io/badge/credly--lightgrey?style=social&logo=credly)](https://www.credly.com/badges/0ddbacc0-a397-4a50-b6df-e78f10a13d28/public_url)
@@ -165,6 +165,10 @@ Dossiers et articles publiés dans le magazine [Technosaures](https://github.com
 
 ## Resume by pictures
 
-<img src="https://raw.githubusercontent.com/fsagez/fsagez/main/pictures/Conferences.png" width="90%" height="90%"/><img src="https://raw.githubusercontent.com/fsagez/fsagez/main/pictures/Resume.png" width="90%" height="90%"/>
+<img src="https://raw.githubusercontent.com/fsagez/fsagez/main/pictures/Conferences.png" width="90%" height="90%" alt=""/>
+<img src="https://raw.githubusercontent.com/fsagez/fsagez/main/pictures/Presse.png" width="90%" height="90%" alt=""/>
+<img src="https://raw.githubusercontent.com/fsagez/fsagez/main/pictures/Radio.png" width="90%" height="90%" alt=""/>
+<img src="https://raw.githubusercontent.com/fsagez/fsagez/main/pictures/Demoscene.png" width="90%" height="90%" alt=""/>
+<img src="https://raw.githubusercontent.com/fsagez/fsagez/main/pictures/Associations.png" width="90%" height="90%" alt=""/>
 
 </br>
